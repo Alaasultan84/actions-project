@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Actions Project
+## Actions Project Structure
 
 *Default Structure for A Basic Project*
 
